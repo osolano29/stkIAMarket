@@ -1,6 +1,6 @@
 # Satoka dApp Marketplace
 
-Una aplicación descentralizada moderna, responsiva y fácil de usar para visualizar y adquirir criptoactivos registrados en contratos inteligentes como `GhostToken` (moneda utilitaria) y `SatokaNFT` (NFTs simbólicos). El sistema reconoce automáticamente si el usuario es administrador y adapta la interfaz según su rol.
+Una aplicación descentralizada moderna, responsiva y fácil de usar para visualizar y adquirir criptoactivos registrados ProductsManager, sobre el que se registran como productos contratos inteligentes como `GhostToken` (moneda utilitaria) y `SatokaNFT` (NFTs simbólicos). El sistema reconoce automáticamente si el usuario es administrador y adapta la interfaz según su rol.
 
 ## 🚀 Características
 
