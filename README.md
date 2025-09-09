@@ -25,6 +25,16 @@ Una aplicación descentralizada moderna, responsiva y fácil de usar para visual
 - GitHub Actions
 - IPFS (para metadatos NFT)
 
+## 🧠 Buenas prácticas
+
+Este proyecto sigue estándares modernos de desarrollo:
+
+- Sintaxis ES6+ y componentes funcionales con hooks
+- Validación de entradas, manejo de errores y uso de `.env`
+- Tipado estricto con TypeScript
+- Estructura modular por carpetas
+- Documentación clara y comentarios explicativos
+
 ## 📦 Instalación
 
 ```bash
