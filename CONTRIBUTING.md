@@ -33,6 +33,16 @@ Este proyecto sigue prácticas modernas para asegurar calidad, seguridad y clari
 - Usar tipado estricto en TypeScript (`noImplicitAny`, `strictNullChecks`).
 - Mantener consistencia en nombres de variables y funciones (camelCase).
 
+## 📚 Referencia técnica de contratos
+
+Para colaborar de forma efectiva y generar código que respete la lógica del sistema, consulta los siguientes archivos en la carpeta `docs/`:
+
+- [`ProductManager.md`](docs/ProductManager.md): Define cómo se registran y mantienen los productos del marketplace.
+- [`GhostToken.md`](docs/GhostToken.md): Explica la lógica de recompensas, minteo y transferencias de la moneda Go.
+- [`SatokaNFT.md`](docs/SatokaNFT.md): Detalla los tipos de NFTs, sus metadatos, recompensas y funciones de adquisición.
+
+Estas especificaciones deben guiar la generación de componentes React, hooks personalizados, validaciones y vistas condicionales según el rol del usuario.
+
 ## 🧠 IA y Issues
 
 Los issues están redactados para facilitar el trabajo de IA. Por favor, mantén este estilo al crear nuevos.
