@@ -17,6 +17,16 @@ Una aplicación descentralizada moderna, responsiva y fácil de usar para visual
 - `GhostToken`: Moneda utilitaria (Go)
 - `SatokaNFT`: NFTs simbólicos con recompensas
 
+## 📚 Documentación de contratos inteligentes
+
+Este proyecto se basa en tres contratos clave que definen la lógica simbólica y funcional del dApp. Para comprender su estructura y funciones disponibles, consulta los siguientes documentos:
+
+- [`docs/ProductManager.md`](docs/ProductManager.md): Registro y mantenimiento de productos simbólicos
+- [`docs/GhostToken.md`](docs/GhostToken.md): Moneda utilitaria Go y sistema de recompensas
+- [`docs/SatokaNFT.md`](docs/SatokaNFT.md): NFTs rituales, niveles de conciencia y lógica de adquisición
+
+Estas referencias son esenciales para generar componentes, hooks y servicios Web3 que interactúen correctamente con los contratos.
+
 ## 🛠️ Tecnologías
 
 - React + TypeScript
