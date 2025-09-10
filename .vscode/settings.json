@@ -1,0 +1,67 @@
+{
+  // 💡 GitHub Copilot
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true,
+    "json": true
+  },
+  "github.copilot.editor.enableCodeActions": true,
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "editor.inlineSuggest.enabled": true,
+
+  // 🧼 Prettier (formato automático)
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+
+  // 🧠 ESLint (buenas prácticas)
+  "eslint.enable": true,
+  "eslint.validate": ["javascript", "typescript"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true
+  },
+
+  // 🧾 Solidity
+  "solidity.compileUsingRemoteVersion": "v0.8.21+commit.d9974bed",
+  "solidity.defaultCompiler": "remote",
+  "solidity.formatter": "prettier",
+
+  // 📚 Markdown Preview
+  "markdown.preview.scrollEditorWithPreview": true,
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "markdown.preview.markEditorSelection": true,
+
+  // 🔍 Explorador de archivos
+  "files.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/.DS_Store": true
+  },
+
+  // 🧙‍♂️ Estilo simbólico
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.trimAutoWhitespace": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.renderControlCharacters": false,
+  "editor.renderIndentGuides": true,
+  "editor.cursorSmoothCaretAnimation": true,
+
+  // 🧠 IA y contexto
+  "chat.experimental.promptFiles": {
+    ".github/prompts": true
+  }
+}
