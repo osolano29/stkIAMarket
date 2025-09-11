@@ -91,3 +91,11 @@ Reclama recompensas en Go.
 
 ### `safeTransferFrom(from, to, id, amount, data)`
 Transfiere NFTs entre direcciones.
+
+// Crear un componente que permita al usuario adquirir NFTs mediante donación en POL o Go.
+// Mostrar tipos de NFT disponibles con getNFTInfo()
+// Calcular cuántos puede adquirir según monto ingresado
+// Usar receive() para POL y depositTokenGo() para Go
+// Mostrar recompensas disponibles con getMyRewardBalance() y claimMyGhostRewards()
+// Validar si isFundingActive() y isRewardsActive() están activos
+// Mostrar metadatos desde uri(tokenType)
