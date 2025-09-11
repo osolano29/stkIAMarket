@@ -16,7 +16,11 @@ Gracias por tu interés en contribuir. Este proyecto combina arte, blockchain y 
 - `docs/`: Documentación técnica de contratos
 - `.vscode/`: Configuración de entorno (settings.json, extensions.json)
 - `contracts`: ABIs, funciones de conexión, Interfaces y direcciones de contratos
+- `contracts/abi/`: ABIs y direcciones de red y contratos
 - `assets`: Imágenes y metadatos NFT
+- `assets/satokanft/`: Imágenes y metadatos NFT de Satoka
+- `assets/ghosttoken/`: Imágenes de Ghost
+- `assets/productmanager/`: Imágenes de ProductManager
 - `utils`: Funciones auxiliares para conversión, validación, formato y conexión Web3
 
 ## 🧠 Reglas de generación de código (React + Node.js)
