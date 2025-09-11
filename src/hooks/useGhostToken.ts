@@ -15,3 +15,9 @@ export function useDepositGo(amount: number) {
   const contract = getGhostTokenContract();
   return contract.depositTokenGo(amount);
 }
+
+export function useGetDollarPriceInGo(): Promise<number> {
+  const contract = getGhostTokenContract();
+  return contract.getDollarPriceInGo();
+}
+
