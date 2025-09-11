@@ -15,3 +15,9 @@ export function useGetProductInfo(productAddress: string) {
   const contract = getProductManagerContract();
   return contract.getProductInfo(productAddress);
 }
+
+export function useUpdateProductStatus(productAddress: string, isActive: boolean) {
+  const contract = getProductManagerContract();
+  return contract.updateProductStatus(productAddress, isActive);
+}
+
