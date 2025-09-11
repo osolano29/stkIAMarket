@@ -20,3 +20,13 @@ export function useIsFundingActive(): Promise<boolean> {
   const contract = getSatokaNFTContract();
   return contract.isFundingActive();
 }
+
+export function useGetMyRewardBalance(): Promise<number> {
+  const contract = getSatokaNFTContract();
+  return contract.getMyRewardBalance();
+}
+
+export function useClaimMyGhostRewards() {
+  const contract = getSatokaNFTContract();
+  return contract.claimMyGhostRewards();
+}
