@@ -10,10 +10,14 @@ Gracias por tu interés en contribuir. Este proyecto combina arte, blockchain y 
 
 ## 🧭 Estructura del Proyecto
 
-- `/src`: Código fuente React + TypeScript
-- `/contracts`: Interfaces y direcciones de contratos
-- `/assets`: Imágenes y metadatos NFT
-- `/utils`: Funciones auxiliares para conversión, validación y conexión Web3
+- `src`: Código fuente React + TypeScript
+- `src/components/`: Componentes visuales del dApp
+- `src/hooks/`: Hooks personalizados por contrato
+- `docs/`: Documentación técnica de contratos
+- `.vscode/`: Configuración de entorno (settings.json, extensions.json)
+- `contracts`: ABIs, funciones de conexión, Interfaces y direcciones de contratos
+- `assets`: Imágenes y metadatos NFT
+- `utils`: Funciones auxiliares para conversión, validación, formato y conexión Web3
 
 ## 🧠 Reglas de generación de código (React + Node.js)
 
