@@ -35,3 +35,18 @@ Actualiza la información de un producto existente.
 ### `updateProductStatus(...) → bool`
 Activa o desactiva un producto. El estado desactivado indica que no está operativo.
 
+// Prompt para Copilot: Prompt para generar un componente React que interactúe con ProductManager
+// Crear un componente React que muestre todos los productos registrados en el contrato ProductManager.
+// Usar el hook useGetProducts() para obtener direcciones.
+// Para cada dirección, usar useGetProductInfo(address) y renderizar nombre, propósito, tipo y estado.
+// Si el usuario es admin (useIsAdmin()), mostrar botón de edición.
+// El componente debe ser responsivo y mostrar loader mientras carga.
+
+// Prompt para generar vista de administrador
+// Crear una vista exclusiva para administradores que permita:
+// - Registrar nuevos productos con setProduct()
+// - Actualizar estado con updateProductStatus()
+// - Configurar recompensas en GhostToken con updateGhostReward()
+// - Retirar fondos con withdrawPolyGo()
+// - Autorizar billeteras con setAuthorizedWallet()
+// Usar validación de inputs y mostrar mensajes simbólicos en cada acción.
