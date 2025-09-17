@@ -10,7 +10,7 @@ Una aplicación descentralizada moderna, responsiva y fácil de usar para visual
 - Registro y mantenimiento de contratos desde la interfaz
 - Adquisición de NFTs mediante donaciones en POL o Go
 - Recompensas automáticas en GhostToken por contribuciones
-- [`CONTRIBUTING.MD`](/Contributing.md): Mayores especificaciones del Market.
+- [`CONTRIBUTING.MD`](./Contributing.md): Mayores especificaciones del Market.
 
 ## 🧱 Contratos Integrados
 
