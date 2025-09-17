@@ -3,7 +3,7 @@ El inicio de nombre empieza con g de grande o p para imagenes pequeñas a ser us
 
 ### Imagenes para la moneda utilitaria Ghost(Go)
 
-- [`assets/ghost/g_GhostManosG.png`](assets/ghost/g_GhostManosG.png): Empleada en fondos oscuros
+- [`assets/ghost/g_GhostManosG.png`](./ghost/g_GhostManosG.png): Empleada en fondos oscuros
 - [`assets/ghost/g_GhostManosOro.png`](assets/ghost/g_GhostManosOro.png): Empleada en fondos claros
 
 ### Imagenes para el proyecto representar el proyecto
