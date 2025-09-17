@@ -82,7 +82,7 @@ Usamos Jest para pruebas unitarias. Cada componente debe tener cobertura mínima
 
 ## Imagenes empleadas en el Market Satoka
 
-- [`assets/assets.md`](assets/assets.md): Especificaciones de las imagenes empleadas en el proyecto de Satoka Market
+- [`assets.md`](assets/assets.md): Especificaciones de las imagenes empleadas en el proyecto de Satoka Market
 
 ## 📬 Contacto
 
