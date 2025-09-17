@@ -19,8 +19,8 @@ Gracias por tu interés en contribuir. Este proyecto combina arte, blockchain y 
 - `contracts/abi/`: ABIs y direcciones de red y contratos
 - `assets`: Imágenes y metadatos NFT
 - `assets/satokanft/`: Imágenes y metadatos NFT de Satoka
-- `assets/ghosttoken/`: Imágenes de Ghost
-- `assets/productmanager/`: Imágenes de ProductManager
+- `assets/ghost/`: Imágenes de Ghost
+- `assets/prjsatoka/`: Imágenes de ProductManager
 - `utils`: Funciones auxiliares para conversión, validación, formato y conexión Web3
 
 ## 🧠 Reglas de generación de código (React + Node.js)
@@ -79,6 +79,10 @@ Usamos Jest para pruebas unitarias. Cada componente debe tener cobertura mínima
 
 - **Administrador**: Detectado por `esAdmin()` en `ProductManager`
 - **Usuario común**: Acceso limitado a funciones de visualización y adquisición
+
+## Imagenes empleadas en el Market Satoka
+
+- [`assets.md`](assets/assets.md): D
 
 ## 📬 Contacto
 
