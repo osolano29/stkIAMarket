@@ -27,6 +27,10 @@ Este proyecto se basa en tres contratos clave que definen la lógica simbólica 
 
 Estas referencias son esenciales para generar componentes, hooks y servicios Web3 que interactúen correctamente con los contratos.
 
+## Imagenes empleadas en el Market Satoka
+
+- [`assets/assets.md`](assets/assets.md): Especificaciones de las imagenes empleadas en el proyecto de Satoka Market
+
 ## 🛠️ Tecnologías
 
 - React + TypeScript
