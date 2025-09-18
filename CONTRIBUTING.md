@@ -15,8 +15,7 @@ Gracias por tu interés en contribuir. Este proyecto combina arte, blockchain y 
 - `src/hooks/`: Hooks personalizados por contrato
 - `docs/`: Documentación técnica de contratos
 - `.vscode/`: Configuración de entorno (settings.json, extensions.json)
-- `contracts`: ABIs, funciones de conexión, Interfaces y direcciones de contratos
-- `contracts/abi/`: ABIs y direcciones de red y contratos
+- `contracts`: Archivos ABIs, funciones de conexión, Interfaces y direcciones de contratos
 - `assets`: Imágenes y metadatos NFT
 - `assets/satokanft/`: Imágenes y metadatos NFT de Satoka
 - `assets/ghost/`: Imágenes de Ghost
