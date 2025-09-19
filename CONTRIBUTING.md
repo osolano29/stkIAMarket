@@ -1,9 +1,6 @@
-## 🤝 `CONTRIBUTING.md`
-
-```markdown
 # Contribuir al Satoka dApp Marketplace
 
-Gracias por tu interés en contribuir. Este proyecto combina arte, blockchain y filosofía. Aquí te explicamos cómo colaborar.
+Gracias por tu interés en contribuir.
 
 ## 🧭 Estructura del Proyecto
 
@@ -73,7 +70,7 @@ Usamos Jest para pruebas unitarias. Cada componente debe tener cobertura mínima
 
 ## 🧙‍♂️ Roles
 
-- **Administrador**: Detectado por `esAdmin()` en `ProductManager`
+- **Administrador**: Detectado por `esAdmin()` en `ProductManager`, En `satokaNFT` usa `isAuthorized`. En `GhostToken` usa `isOwner`
 - **Usuario común**: Acceso limitado a funciones de visualización y adquisición
 
 ## Imagenes empleadas en el Market Satoka
@@ -82,4 +79,4 @@ Usamos Jest para pruebas unitarias. Cada componente debe tener cobertura mínima
 
 ## 📬 Contacto
 
-Para dudas filosóficas, técnicas o simbólicas, abre un issue o contacta al equipo de Satoka DAO.
+Para dudas filosóficas, técnicas o simbólicas, busca contacto en https://sites.google.com/view/proyecto-satoka/satoka.
