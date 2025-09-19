@@ -16,6 +16,27 @@ Gracias por tu interés en contribuir.
 - `assets/prjsatoka/`: Imágenes de ProductManager
 - `utils`: Funciones auxiliares para conversión, validación, formato y conexión Web3
 
+## Archivos ABI y direcciones de contratos
+- [`abiManager.json`](contracts/abiManager.json): Especifica el ABI del contrato manager.sol llamado ProductManager
+- [`abiGhost.json`](contracts/abiGhost.json): Especifica el ABI del contrato GhostToken.sol llamado GhostToken
+- [`abiSatokaNFT.json`](contracts/abiSatokaNFT.json): Especifica el ABI del contrato SATOKA.sol llamado SatokaNFT
+- [`adrsProductManager.json`](contracts/adrsProductManager.json): Especifica las direcciones del contrato ProdcutManager en las diferentes redes desplegado.
+- [`adrsGhostToken.json`](contracts/adrsGhostToken.json): Especifica las direcciones del contrato GhostToken en las diferentes redes desplegado.
+- [`adrsSatokaNFT.json`](contracts/adrsSatokaNFT.json): Especifica las direcciones del contrato SatokaNFT en las diferentes redes desplegado.
+- [`redBnb.json`](contracts/redBnb.json): Especifica datos conexión a la red BNB.
+- [`redPolygon-amoy.json`](contracts/redPolygon-amoy.json): Especifica datos conexión a la red Amoy para pruebas antes de lanzamiento.
+- [`redPolygon-mainnet.json`](contracts/redPolygon-mainnet.json): Especifica datos conexión de la primera red de despliegue, Polygon. 
+
+## 📚 Referencia técnica de contratos
+
+Para colaborar de forma efectiva y generar código que respete la lógica del sistema, consulta los siguientes archivos en la carpeta `docs/`:
+
+- [`ProductManager.md`](docs/ProductManager.md): Define cómo se registran y mantienen los productos del marketplace.
+- [`GhostToken.md`](docs/GhostToken.md): Explica la lógica de recompensas, minteo y transferencias de la moneda Go.
+- [`SatokaNFT.md`](docs/SatokaNFT.md): Detalla los tipos de NFTs, sus metadatos, recompensas y funciones de adquisición.
+
+Estas especificaciones deben guiar la generación de componentes React, hooks personalizados, validaciones y vistas condicionales según el rol del usuario.
+
 ## 🧠 Reglas de generación de código (React + Node.js)
 
 Este proyecto sigue prácticas modernas para asegurar calidad, seguridad y claridad en el desarrollo:
@@ -36,16 +57,6 @@ Este proyecto sigue prácticas modernas para asegurar calidad, seguridad y clari
 - Genere interfaces simbólicas que reflejen evolución del usuario (NFTs, recompensas)
 - Interactúe con MetaMask usando `ethers.js`
 - Consulte funciones clave de cada contrato según los archivos en `docs/`
-
-## 📚 Referencia técnica de contratos
-
-Para colaborar de forma efectiva y generar código que respete la lógica del sistema, consulta los siguientes archivos en la carpeta `docs/`:
-
-- [`ProductManager.md`](docs/ProductManager.md): Define cómo se registran y mantienen los productos del marketplace.
-- [`GhostToken.md`](docs/GhostToken.md): Explica la lógica de recompensas, minteo y transferencias de la moneda Go.
-- [`SatokaNFT.md`](docs/SatokaNFT.md): Detalla los tipos de NFTs, sus metadatos, recompensas y funciones de adquisición.
-
-Estas especificaciones deben guiar la generación de componentes React, hooks personalizados, validaciones y vistas condicionales según el rol del usuario.
 
 ## 🧠 IA y Issues
 
