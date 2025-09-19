@@ -5,10 +5,10 @@ El inicio de nombre empieza con g de grande o p para imagenes pequeñas a ser us
 
 - [`assets/ghost/g_GhostManosG.png`](./ghost/g_GhostManosG.png): Empleada en fondos oscuros
 - [`assets/ghost/g_GhostManosOro.png`](./ghost/g_GhostManosOro.png): Empleada en fondos claros
-- [`assets/satokanft/GoGoToMoon.png`](./satokanft/GoGoToMoon.png): Imagen a emplear como ilustración general en Ghost.
-- [`assets/satokanft/GoInToPrjCA.png`](./satokanft/GoInToPrjCA.png): Imagen a emplear como ilustración general en Ghost.
-- [`assets/satokanft/GoOnMoon.png`](./satokanft/GoOnMoon.png): Imagen a emplear como ilustración general en Ghost.
-- [`assets/satokanft/GoToMoon.png`](./satokanft/GoToMoon.png): Imagen a emplear como ilustración general en Ghost.
+- [`assets/ghost/GoGoToMoon.png`](./ghost/GoGoToMoon.png): Imagen a emplear como ilustración general en Ghost.
+- [`assets/ghost/GoInToPrjCA.png`](./ghost/GoInToPrjCA.png): Imagen a emplear como ilustración general en Ghost.
+- [`assets/ghost/GoOnMoon.png`](./ghost/GoOnMoon.png): Imagen a emplear como ilustración general en Ghost.
+- [`assets/ghost/GoToMoon.png`](./ghost/GoToMoon.png): Imagen a emplear como ilustración general en Ghost.
 
 ### Imagenes para el proyecto representar el proyecto
 
