@@ -5,6 +5,10 @@ El inicio de nombre empieza con g de grande o p para imagenes pequeñas a ser us
 
 - [`assets/ghost/g_GhostManosG.png`](./ghost/g_GhostManosG.png): Empleada en fondos oscuros
 - [`assets/ghost/g_GhostManosOro.png`](./ghost/g_GhostManosOro.png): Empleada en fondos claros
+- [`assets/satokanft/GoGoToMoon.png`](./satokanft/GoGoToMoon.png): Imagen a emplear como ilustración general en Ghost.
+- [`assets/satokanft/GoInToPrjCA.png`](./satokanft/GoInToPrjCA.png): Imagen a emplear como ilustración general en Ghost.
+- [`assets/satokanft/GoOnMoon.png`](./satokanft/GoOnMoon.png): Imagen a emplear como ilustración general en Ghost.
+- [`assets/satokanft/GoToMoon.png`](./satokanft/GoToMoon.png): Imagen a emplear como ilustración general en Ghost.
 
 ### Imagenes para el proyecto representar el proyecto
 
@@ -22,3 +26,5 @@ El inicio de nombre empieza con g de grande o p para imagenes pequeñas a ser us
 - [`assets/satokanft/p_renombre.png`](./satokanft/p_renombre.png): Imagen icono grande del token renombre.
 - [`assets/satokanft/g_incognito.png`](./satokanft/g_incognito.png): Imagen grande empleada en los detalles del token incógnito.
 - [`assets/satokanft/p_incognito.png`](./satokanft/p_incognito.png): Imagen icono grande del token incógnito.
+- [`assets/satokanft/SatokaBuscaFinanciamiento.png`](./satokanft/SatokaBuscaFinanciamiento.png): Imagen a emplear como ilustración genral de los NFTs Satoka. 
+- [`assets/satokanft/PrjCANFTs.png`](./satokanft/PrjCANFTs.png): Imagen a emplear como ilustración general de los NFTs Satoka.
