@@ -1,6 +1,6 @@
 # Contribuir al Satoka dApp Marketplace
 
-Gracias por tu interés en contribuir.
+Estas especificaciones deben guiar la generación de componentes React, hooks personalizados, validaciones y vistas condicionales según el rol del usuario.
 
 ## 🧭 Estructura del Proyecto
 
@@ -35,7 +35,14 @@ Para colaborar de forma efectiva y generar código que respete la lógica del si
 - [`GhostToken.md`](docs/GhostToken.md): Explica la lógica de recompensas, minteo y transferencias de la moneda Go.
 - [`SatokaNFT.md`](docs/SatokaNFT.md): Detalla los tipos de NFTs, sus metadatos, recompensas y funciones de adquisición.
 
-Estas especificaciones deben guiar la generación de componentes React, hooks personalizados, validaciones y vistas condicionales según el rol del usuario.
+## Imagenes empleadas en el Market Satoka
+
+- [`assets.md`](assets/assets.md): Especificaciones de las imagenes empleadas en el proyecto de Satoka Market
+
+## 🧙‍♂️ Roles
+
+- **Administrador**: Detectado por `esAdmin()` en `ProductManager`, En `satokaNFT` usa `isAuthorized`. En `GhostToken` usa `isOwner`
+- **Usuario común**: Acceso limitado a funciones de visualización y adquisición
 
 ## 🧠 Reglas de generación de código (React + Node.js)
 
@@ -78,15 +85,6 @@ Usamos Jest para pruebas unitarias. Cada componente debe tener cobertura mínima
 - Validar direcciones antes de transacciones
 - Evitar hardcoded keys
 - Usar try/catch en llamadas Web3
-
-## 🧙‍♂️ Roles
-
-- **Administrador**: Detectado por `esAdmin()` en `ProductManager`, En `satokaNFT` usa `isAuthorized`. En `GhostToken` usa `isOwner`
-- **Usuario común**: Acceso limitado a funciones de visualización y adquisición
-
-## Imagenes empleadas en el Market Satoka
-
-- [`assets.md`](assets/assets.md): Especificaciones de las imagenes empleadas en el proyecto de Satoka Market
 
 ## 📬 Contacto
 
