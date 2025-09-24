@@ -7,7 +7,7 @@ Contrato central que registra y mantiene productos simbólicos dentro del ecosis
 - **Administrador**: Dueño del contrato, con permisos para registrar y modificar productos.
 - **Usuario común**: Puede consultar productos, pero no modificarlos.
 
-## 🧩 Funciones principales
+## 🧩 Funciones públicas
 
 ### `esAdmin() → bool`
 Determina si la dirección que invoca es el dueño del contrato.
@@ -26,7 +26,7 @@ Devuelve:
 - `contractType`: Tipo de contrato (0: Unknown, 1: ERC20, 2: ERC1155)
 - `status`: Estado operativo
 
-## 🔁 Funciones públicas
+## 🔁 Funciones administrativas
 
 ### `setProduct(...) → bool`
 Registra un nuevo producto con su información completa.
