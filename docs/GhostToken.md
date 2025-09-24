@@ -25,7 +25,7 @@ Define el límite de minteo para un contrato autorizado.
 ### `setDollarPriceInGo(uint256)`
 Establece la tasa de cambio USD → Go.
 
-## 🔍 Consultas públicas
+## 🔍 Funciones públicas
 
 ### `getActive() → bool`
 Indica si el contrato está operativo.
@@ -41,8 +41,6 @@ Devuelve:
 
 ### `getDollarPriceInGo() → uint256`
 Valor actual de 1 USD en Go.
-
-## 🔁 Transacciones abiertas
 
 ### `transfer(address, uint256)`
 Transfiere Go a otra cuenta.
