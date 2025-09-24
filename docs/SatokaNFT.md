@@ -75,8 +75,6 @@ Devuelve:
 ### `isFundingActive()` / `isRewardsActive()`
 Consulta si están activas las donaciones y recompensas.
 
-## 🔁 Transacciones abiertas
-
 ### `receive() payable`
 Recibe donaciones en POL y asigna NFTs automáticamente.
 
