@@ -26,6 +26,8 @@ Devuelve:
 - `contractType`: Tipo de contrato (0: Unknown, 1: ERC20, 2: ERC1155)
 - `status`: Estado operativo
 
+## 🔁 Funciones públicas
+
 ### `setProduct(...) → bool`
 Registra un nuevo producto con su información completa.
 
